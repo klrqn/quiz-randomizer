@@ -8,6 +8,8 @@
 from pathlib import Path
 import random
 import os
+import string
+
 #the Quiz Data. Keys are States and values are their capitals
 capitals = {
         'Alabama': 'Montgomery',
@@ -69,19 +71,23 @@ except:
     FileExistsError
     print('The Test Folder Exists')
 
-print("The Tests are here: " + str(Path.cwd()) + '/test/')
+# print("The Tests are here: " + str(Path.cwd()) + '/test/')
 
 for i in range(35):
     quizFile = open('test/quiz-{}'.format(i), 'w')
     answerFile = open('test/answer-{}'.format(i), 'w')
 
-    # TODO: Write out the header for the quiz.
-    quizFile.write('Name: ____________________\nState Capitals Quiz\n\n')
+    # Write out the header for the quiz.
+    quizFile.write('State Capitals Quiz\nName: ____________________\n\n')
 
     # TODO: Shuffle the order of the states.
-    state, capital = random.choice(list(capitals.items()))
     for i in range(15):
+            state, capital = random.choice(list(capitals.items()))
 
+            # Write Questions and Answers to Files
+            quizFile.write('Question {} -'.format(i + 1).ljust(15) + f'What is the capital of {state}?\n________________________________\n\n')
+            answerFile.write("Answer {}:".format(i+1).ljust(12) + f"{capital}\n")
 
-    # TODO: Loop through all 50 states, making a question for each.
-    print("What is the capital of {}?\n".format(state)) quizFile.write("What is the capital of {}?\n".format(state))
+    quizFile.close()
+    answerFile.closer()
+

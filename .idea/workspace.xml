@@ -1,6 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+    <list default="true" id="993e8d06-b00d-4914-adf9-1b64742fd099" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/rand_quiz.iml" afterPath="$PROJECT_DIR$/.idea/rand_quiz.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/randomQuizGenerator.py" afterPath="$PROJECT_DIR$/randomQuizGenerator.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-0" afterPath="$PROJECT_DIR$/test/answer-0" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-1" afterPath="$PROJECT_DIR$/test/answer-1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-10" afterPath="$PROJECT_DIR$/test/answer-10" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-11" afterPath="$PROJECT_DIR$/test/answer-11" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-12" afterPath="$PROJECT_DIR$/test/answer-12" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-13" afterPath="$PROJECT_DIR$/test/answer-13" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-14" afterPath="$PROJECT_DIR$/test/answer-14" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-15" afterPath="$PROJECT_DIR$/test/answer-15" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-16" afterPath="$PROJECT_DIR$/test/answer-16" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-17" afterPath="$PROJECT_DIR$/test/answer-17" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-18" afterPath="$PROJECT_DIR$/test/answer-18" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-19" afterPath="$PROJECT_DIR$/test/answer-19" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-2" afterPath="$PROJECT_DIR$/test/answer-2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-20" afterPath="$PROJECT_DIR$/test/answer-20" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-21" afterPath="$PROJECT_DIR$/test/answer-21" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-22" afterPath="$PROJECT_DIR$/test/answer-22" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-23" afterPath="$PROJECT_DIR$/test/answer-23" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-24" afterPath="$PROJECT_DIR$/test/answer-24" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-25" afterPath="$PROJECT_DIR$/test/answer-25" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-26" afterPath="$PROJECT_DIR$/test/answer-26" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-27" afterPath="$PROJECT_DIR$/test/answer-27" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-28" afterPath="$PROJECT_DIR$/test/answer-28" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-29" afterPath="$PROJECT_DIR$/test/answer-29" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-3" afterPath="$PROJECT_DIR$/test/answer-3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-30" afterPath="$PROJECT_DIR$/test/answer-30" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-31" afterPath="$PROJECT_DIR$/test/answer-31" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-32" afterPath="$PROJECT_DIR$/test/answer-32" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-33" afterPath="$PROJECT_DIR$/test/answer-33" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-34" afterPath="$PROJECT_DIR$/test/answer-34" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-4" afterPath="$PROJECT_DIR$/test/answer-4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-5" afterPath="$PROJECT_DIR$/test/answer-5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-6" afterPath="$PROJECT_DIR$/test/answer-6" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-7" afterPath="$PROJECT_DIR$/test/answer-7" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-8" afterPath="$PROJECT_DIR$/test/answer-8" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-9" afterPath="$PROJECT_DIR$/test/answer-9" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-0" afterPath="$PROJECT_DIR$/test/quiz-0" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-1" afterPath="$PROJECT_DIR$/test/quiz-1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-10" afterPath="$PROJECT_DIR$/test/quiz-10" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-11" afterPath="$PROJECT_DIR$/test/quiz-11" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-12" afterPath="$PROJECT_DIR$/test/quiz-12" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-13" afterPath="$PROJECT_DIR$/test/quiz-13" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-14" afterPath="$PROJECT_DIR$/test/quiz-14" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-15" afterPath="$PROJECT_DIR$/test/quiz-15" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-16" afterPath="$PROJECT_DIR$/test/quiz-16" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-17" afterPath="$PROJECT_DIR$/test/quiz-17" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-18" afterPath="$PROJECT_DIR$/test/quiz-18" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-19" afterPath="$PROJECT_DIR$/test/quiz-19" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-2" afterPath="$PROJECT_DIR$/test/quiz-2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-20" afterPath="$PROJECT_DIR$/test/quiz-20" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-21" afterPath="$PROJECT_DIR$/test/quiz-21" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-22" afterPath="$PROJECT_DIR$/test/quiz-22" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-23" afterPath="$PROJECT_DIR$/test/quiz-23" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-24" afterPath="$PROJECT_DIR$/test/quiz-24" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-25" afterPath="$PROJECT_DIR$/test/quiz-25" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-26" afterPath="$PROJECT_DIR$/test/quiz-26" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-27" afterPath="$PROJECT_DIR$/test/quiz-27" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-28" afterPath="$PROJECT_DIR$/test/quiz-28" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-29" afterPath="$PROJECT_DIR$/test/quiz-29" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-3" afterPath="$PROJECT_DIR$/test/quiz-3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-30" afterPath="$PROJECT_DIR$/test/quiz-30" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-31" afterPath="$PROJECT_DIR$/test/quiz-31" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-32" afterPath="$PROJECT_DIR$/test/quiz-32" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-33" afterPath="$PROJECT_DIR$/test/quiz-33" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-34" afterPath="$PROJECT_DIR$/test/quiz-34" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-4" afterPath="$PROJECT_DIR$/test/quiz-4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-5" afterPath="$PROJECT_DIR$/test/quiz-5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-6" afterPath="$PROJECT_DIR$/test/quiz-6" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-7" afterPath="$PROJECT_DIR$/test/quiz-7" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-8" afterPath="$PROJECT_DIR$/test/quiz-8" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-9" afterPath="$PROJECT_DIR$/test/quiz-9" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +85,250 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="randomQuizGenerator.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/randomQuizGenerator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+              <folding>
+                <element signature="e#264#288#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quiz-0" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/quiz-0">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="answer-0" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/answer-0">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/answer-0" />
+        <option value="$PROJECT_DIR$/test/quiz-0" />
+        <option value="$PROJECT_DIR$/randomQuizGenerator.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="51" />
+    <option name="y" value="27" />
+    <option name="width" value="1315" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rand_quiz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rand_quiz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rand_quiz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rand_quiz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rand_quiz" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rand_quiz" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rand_quiz" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rand_quiz" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rand_quiz" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rand_quiz" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rand_quiz" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="993e8d06-b00d-4914-adf9-1b64742fd099" name="Default" comment="" />
       <created>1597499304074</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -22,11 +336,70 @@
     </task>
     <servers />
   </component>
+  <component name="ToolWindowManager">
+    <frame x="51" y="27" width="1315" height="741" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2300163" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/randomQuizGenerator.py</url>
+          <line>7</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/answer-0">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/quiz-0">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/randomQuizGenerator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+          <folding>
+            <element signature="e#264#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
