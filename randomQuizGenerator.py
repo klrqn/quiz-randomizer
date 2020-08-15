@@ -5,7 +5,9 @@
 # Write the quizzes to 35 text files
 # write the answer keys to 35 text files
 
+from pathlib import Path
 import random
+import os
 #the Quiz Data. Keys are States and values are their capitals
 capitals = {
         'Alabama': 'Montgomery',
@@ -60,3 +62,26 @@ capitals = {
         'Wyoming': 'Cheyenne'
 }
 
+       # TODO: Create the quiz and answer key files.
+try:
+    os.mkdir(Path.cwd() / 'test/', mode=0o777)
+except:
+    FileExistsError
+    print('The Test Folder Exists')
+
+print("The Tests are here: " + str(Path.cwd()) + '/test/')
+
+for i in range(35):
+    quizFile = open('test/quiz-{}'.format(i), 'w')
+    answerFile = open('test/answer-{}'.format(i), 'w')
+
+    # TODO: Write out the header for the quiz.
+    quizFile.write('Name: ____________________\nState Capitals Quiz\n\n')
+
+    # TODO: Shuffle the order of the states.
+    state, capital = random.choice(list(capitals.items()))
+    for i in range(15):
+
+
+    # TODO: Loop through all 50 states, making a question for each.
+    print("What is the capital of {}?\n".format(state)) quizFile.write("What is the capital of {}?\n".format(state))
