@@ -65,29 +65,26 @@ capitals = {
 }
 
        # TODO: Create the quiz and answer key files.
-try:
-    os.mkdir(Path.cwd() / 'test/', mode=0o777)
-except:
-    FileExistsError
-    print('The Test Folder Exists')
-
-# print("The Tests are here: " + str(Path.cwd()) + '/test/')
-
-for i in range(35):
-    quizFile = open('test/quiz-{}'.format(i), 'w')
-    answerFile = open('test/answer-{}'.format(i), 'w')
+for quizNum in range(35):
+    quizFile = open(f'Capitals Quiz {quizNum + 1}.txt', 'w')
+    answerKeyFile = open(f'Capitals Quiz Answers {quizNum + 1}.txt', 'w')
 
     # Write out the header for the quiz.
-    quizFile.write('State Capitals Quiz\nName: ____________________\n\n')
+    quizFile.write('Name:\n\nDate:\n\n:Period:\n\n')
+    quizFile.write((' ' * 20) + f'State Capitals Quiz (Form {quizNum + 1})')
+    quizFile.write('\n\n')
 
     # TODO: Shuffle the order of the states.
-    for i in range(15):
-            state, capital = random.choice(list(capitals.items()))
+    states = list(capitals.keys())
+    random.shuffle(states)
 
-            # Write Questions and Answers to Files
-            quizFile.write('Question {} -'.format(i + 1).ljust(15) + f'What is the capital of {state}?\n________________________________\n\n')
-            answerFile.write("Answer {}:".format(i+1).ljust(12) + f"{capital}\n")
+    for questionNum in range(50):
+        correctAnswer = capitals[states[questionNum]]
+        wrongAnswers = list(capitals.values())
+        del wrongAnswers[wrongAnswers.index(correctAnswer)]
+        wrongAnswers = random.sample(wrongAnswers, 3)
+        answerOptions = wrongAnswers + [correctAnswer]
+        random.shuffle(answerOptions)
 
-    quizFile.close()
-    answerFile.closer()
-
+        # Write Questions and Answers to Files
+        answerKeyFile.write(f"{questionNum + 1}.{'ABCD'[answerOptions.index(correctAnswer)]}")

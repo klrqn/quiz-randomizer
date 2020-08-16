@@ -1,80 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="993e8d06-b00d-4914-adf9-1b64742fd099" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/rand_quiz.iml" afterPath="$PROJECT_DIR$/.idea/rand_quiz.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/randomQuizGenerator.py" afterPath="$PROJECT_DIR$/randomQuizGenerator.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-0" afterPath="$PROJECT_DIR$/test/answer-0" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-1" afterPath="$PROJECT_DIR$/test/answer-1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-10" afterPath="$PROJECT_DIR$/test/answer-10" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-11" afterPath="$PROJECT_DIR$/test/answer-11" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-12" afterPath="$PROJECT_DIR$/test/answer-12" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-13" afterPath="$PROJECT_DIR$/test/answer-13" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-14" afterPath="$PROJECT_DIR$/test/answer-14" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-15" afterPath="$PROJECT_DIR$/test/answer-15" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-16" afterPath="$PROJECT_DIR$/test/answer-16" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-17" afterPath="$PROJECT_DIR$/test/answer-17" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-18" afterPath="$PROJECT_DIR$/test/answer-18" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-19" afterPath="$PROJECT_DIR$/test/answer-19" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-2" afterPath="$PROJECT_DIR$/test/answer-2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-20" afterPath="$PROJECT_DIR$/test/answer-20" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-21" afterPath="$PROJECT_DIR$/test/answer-21" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-22" afterPath="$PROJECT_DIR$/test/answer-22" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-23" afterPath="$PROJECT_DIR$/test/answer-23" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-24" afterPath="$PROJECT_DIR$/test/answer-24" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-25" afterPath="$PROJECT_DIR$/test/answer-25" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-26" afterPath="$PROJECT_DIR$/test/answer-26" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-27" afterPath="$PROJECT_DIR$/test/answer-27" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-28" afterPath="$PROJECT_DIR$/test/answer-28" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-29" afterPath="$PROJECT_DIR$/test/answer-29" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-3" afterPath="$PROJECT_DIR$/test/answer-3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-30" afterPath="$PROJECT_DIR$/test/answer-30" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-31" afterPath="$PROJECT_DIR$/test/answer-31" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-32" afterPath="$PROJECT_DIR$/test/answer-32" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-33" afterPath="$PROJECT_DIR$/test/answer-33" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-34" afterPath="$PROJECT_DIR$/test/answer-34" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-4" afterPath="$PROJECT_DIR$/test/answer-4" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-5" afterPath="$PROJECT_DIR$/test/answer-5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-6" afterPath="$PROJECT_DIR$/test/answer-6" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-7" afterPath="$PROJECT_DIR$/test/answer-7" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-8" afterPath="$PROJECT_DIR$/test/answer-8" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/answer-9" afterPath="$PROJECT_DIR$/test/answer-9" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-0" afterPath="$PROJECT_DIR$/test/quiz-0" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-1" afterPath="$PROJECT_DIR$/test/quiz-1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-10" afterPath="$PROJECT_DIR$/test/quiz-10" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-11" afterPath="$PROJECT_DIR$/test/quiz-11" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-12" afterPath="$PROJECT_DIR$/test/quiz-12" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-13" afterPath="$PROJECT_DIR$/test/quiz-13" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-14" afterPath="$PROJECT_DIR$/test/quiz-14" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-15" afterPath="$PROJECT_DIR$/test/quiz-15" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-16" afterPath="$PROJECT_DIR$/test/quiz-16" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-17" afterPath="$PROJECT_DIR$/test/quiz-17" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-18" afterPath="$PROJECT_DIR$/test/quiz-18" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-19" afterPath="$PROJECT_DIR$/test/quiz-19" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-2" afterPath="$PROJECT_DIR$/test/quiz-2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-20" afterPath="$PROJECT_DIR$/test/quiz-20" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-21" afterPath="$PROJECT_DIR$/test/quiz-21" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-22" afterPath="$PROJECT_DIR$/test/quiz-22" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-23" afterPath="$PROJECT_DIR$/test/quiz-23" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-24" afterPath="$PROJECT_DIR$/test/quiz-24" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-25" afterPath="$PROJECT_DIR$/test/quiz-25" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-26" afterPath="$PROJECT_DIR$/test/quiz-26" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-27" afterPath="$PROJECT_DIR$/test/quiz-27" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-28" afterPath="$PROJECT_DIR$/test/quiz-28" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-29" afterPath="$PROJECT_DIR$/test/quiz-29" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-3" afterPath="$PROJECT_DIR$/test/quiz-3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-30" afterPath="$PROJECT_DIR$/test/quiz-30" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-31" afterPath="$PROJECT_DIR$/test/quiz-31" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-32" afterPath="$PROJECT_DIR$/test/quiz-32" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-33" afterPath="$PROJECT_DIR$/test/quiz-33" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-34" afterPath="$PROJECT_DIR$/test/quiz-34" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-4" afterPath="$PROJECT_DIR$/test/quiz-4" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-5" afterPath="$PROJECT_DIR$/test/quiz-5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-6" afterPath="$PROJECT_DIR$/test/quiz-6" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-7" afterPath="$PROJECT_DIR$/test/quiz-7" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-8" afterPath="$PROJECT_DIR$/test/quiz-8" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/quiz-9" afterPath="$PROJECT_DIR$/test/quiz-9" />
-    </list>
+    <list default="true" id="993e8d06-b00d-4914-adf9-1b64742fd099" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -337,8 +264,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="27" width="1315" height="741" extended-state="0" />
-    <editor active="true" />
+    <frame x="51" y="27" width="1315" height="741" extended-state="1" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -346,7 +273,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2300163" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2300163" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
